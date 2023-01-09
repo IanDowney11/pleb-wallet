@@ -26,7 +26,7 @@ useEffect(()=>{
   return (
     <div className="App">
       <h1>Bitcoin Price</h1>
-      <h2>${price}</h2>
+      <h4>${price}</h4>
     </div>
   );
 }
