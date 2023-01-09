@@ -27,6 +27,8 @@ useEffect(()=>{
     <div className="App">
       <h1>Bitcoin Price</h1>
       <h4>${price}</h4>
+
+      <h6>This is for ILD Development purposes only.  DO NOT USE LIVE</h6>
     </div>
   );
 }
